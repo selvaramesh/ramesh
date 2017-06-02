@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class GFG {
+class oddeven {
 	public static void main(String[] args)
 	{
 		Scanner a=new Scanner(System.in);
