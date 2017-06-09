@@ -16,7 +16,6 @@ class Ams {
 	     n=n/10;
 	     c+=Math.pow(r,d);
 	 }
-	 System.out.println(c);
 	 if(c==temp)
 	 {
 	     System.out.println("amstrong number");
